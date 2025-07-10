@@ -16,15 +16,6 @@ All detections are applied to live webcam input, making it ideal for real-time a
 
 ---
 
-<h3>🎥 Demo Video</h3>
-
-<video width="100%" controls>
-  <source src="assets/demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
----
-
 ## 🧰 Technologies Used
 
 - **Python 3.8+**
